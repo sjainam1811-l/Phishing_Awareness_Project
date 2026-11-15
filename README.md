@@ -192,7 +192,8 @@ Phishing_Awareness_Project/
 │   └── 10_survey_results.png        # Survey analytics and metrics
 │
 ├── reports/                         # Research and academic documentation
-│   ├── CyberSafe_Project_Report.docx# Complete major project research report
+│   ├── CyberSafe_Project_Report.pdf # Formatted academic project research report
+│   ├── CyberSafe_Project_Report.docx# Source project research report
 │   └── CyberSafe Phishing Lab.pptx  # Project presentation and walkthrough slides
 │
 ├── app.py                           # Core Python application server & HTTP handler
@@ -218,7 +219,7 @@ This simulation is strictly designed for **educational, academic, and internal o
 ## 📚 Research & Deliverables
 
 This repository contains the complete academic deliverables for the Major Project in Cyber Security (Academic Year 2026–2027):
-- **Full Research Report**: Located in [`reports/CyberSafe_Project_Report.docx`](reports/CyberSafe_Project_Report.docx), covering social engineering psychology, threat modeling, attack vectors, and human-centric security mitigation.
+- **Full Research Report**: Available in [`reports/CyberSafe_Project_Report.pdf`](reports/CyberSafe_Project_Report.pdf) and [`reports/CyberSafe_Project_Report.docx`](reports/CyberSafe_Project_Report.docx), covering social engineering psychology, threat modeling, attack vectors, and human-centric security mitigation.
 - **Presentation Deck**: Located in [`reports/CyberSafe Phishing Lab.pptx`](reports/CyberSafe%20Phishing%20Lab.pptx), detailing the project architecture, implementation phases, and live demonstrations.
 
 ---
