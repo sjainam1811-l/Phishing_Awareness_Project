@@ -1,0 +1,4 @@
+# CyberSafe - Phishing Awareness & Simulation Lab
+# Built exclusively with Python standard libraries (http.server, sqlite3, urllib, json, html)
+# No external third-party dependencies required.
+# Minimum requirement: Python 3.9+
